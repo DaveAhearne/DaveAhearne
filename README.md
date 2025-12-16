@@ -45,6 +45,36 @@ Recent applied work includes:
 My interest lies in how these techniques translate into reliable, maintainable systems rather than isolated notebook results.
 
 
+## 🧩 Current Side Project
+
+My current side project focuses on building an ML-enabled product, prioritising clean architecture, operational simplicity, and low-latency interaction.
+
+Key approaches and implementation details:
+- Hexagonal architecture in Go with clear separation between:
+  - Domain contracts and types
+  - Use cases as the application boundary
+  - Infrastructure adapters for external dependencies
+  - HTTP delivery layer as a thin interface
+- HTMX-first UI with websocket support for a server-driven interaction model, reducing frontend complexity while maintaining responsiveness
+- LLM integration via Ollama with streaming responses:
+  - Incremental decoding of streamed chunks
+  - Server-side chunking strategy to emit readable partial responses while streaming
+- Vector similarity search backed by Postgres using pgvector:
+  - Persisted prototype embeddings
+  - Nearest-neighbour queries using vector distance operators
+- Service integration between:
+  - A Go web application as the primary delivery surface and orchestration layer
+  - A Python FastAPI service responsible for embeddings and similarity lookups
+- Docker-first packaging and environment-driven configuration for reproducible local and deployment workflows
+
+The next phase of the project focuses on evolving the system into a low-latency natural language interface backed by a structured internal knowledge model, while avoiding unnecessary reliance on large, opaque models
+* **Structured memory with temporal awareness**: 
+Introduce a slot-based representation for capturing relevant information from natural language input. Facts are stored with confidence, provenance, and temporal validity, allowing the system to retain history while prioritising recent or explicitly updated information.
+* **Targeted extraction over free-form generation**: Populate structured slots using extractive question-answering models in combination with named-entity recognition. This enables precise, bounded extraction from short interactions, with explicit uncertainty tracking rather than implicit assumptions.
+* **Semantic routing and intent interpretation**: Replace brittle keyword triggers with embedding-based routing and lightweight intent classification to determine how user input should be handled, whether updating stored information, querying existing knowledge, or retrieving contextual signals.
+* **Natural language querying of structured knowledge**: Expose stored information through the same natural language interface used to create it. Wherever possible, queries are resolved deterministically against structured data, with retrieval-based techniques used selectively for nuanced or contextual questions.
+* **Application-level safeguards and adaptability**: Enforce constraints on storage, updates, and retrieval to prevent low-confidence accumulation or misuse. Conflicts, revisions, and uncertainty are handled explicitly, allowing the system to adapt naturally as information evolves.
+
 ## 🔧 Current Technical Exploration
 
 I am actively exploring architectures that combine:
