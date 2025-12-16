@@ -1,6 +1,6 @@
-## 👋 David A’Hearne
+## 👋 Hi, I’m David A’Hearne
 
-Senior software engineer and engineering leader with 13+ years of experience building, operating, and scaling production systems across fintech, energy, defence, and SaaS. Extensive experience owning complex systems end to end, leading engineering teams, and delivering business-critical software in regulated and high-availability environments.
+I’m a senior software engineer and engineering leader with over 13 years of experience building, operating, and scaling production systems across fintech, energy, defence, and SaaS. I’ve owned complex systems end to end, led engineering teams, and delivered business-critical software in regulated and high-availability environments.
 
 I finished my role at Bright in December 2024 to focus on strengthening my foundations in mathematics and data science. I am currently studying for a BSc in Mathematics with the Open University, in addition to holding a First Class Honours degree in Computing, and completing the [Cambridge Data Science Career Accelerator programme](https://onlinecareeraccelerators.pace.cam.ac.uk/cambridge-data-science-career-accelerator).
 
