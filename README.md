@@ -44,6 +44,15 @@ Recent applied work includes:
 
 My interest lies in how these techniques translate into reliable, maintainable systems rather than isolated notebook results.
 
+## 🔧 Current Technical Exploration
+
+I am actively exploring architectures that combine:
+
+- Go for performance, concurrency, and simplicity  
+- HTMX for minimal, server-driven interfaces  
+- Modern NLP and ML techniques for low-latency, cost-efficient systems  
+
+The focus is on building lean ML-enabled products that avoid unnecessary infrastructure complexity or vendor lock-in.
 
 ## 🧩 Current Side Project
 
@@ -74,17 +83,6 @@ Introduce a slot-based representation for capturing relevant information from na
 * **Semantic routing and intent interpretation**: Replace brittle keyword triggers with embedding-based routing and lightweight intent classification to determine how user input should be handled, whether updating stored information, querying existing knowledge, or retrieving contextual signals.
 * **Natural language querying of structured knowledge**: Expose stored information through the same natural language interface used to create it. Wherever possible, queries are resolved deterministically against structured data, with retrieval-based techniques used selectively for nuanced or contextual questions.
 * **Application-level safeguards and adaptability**: Enforce constraints on storage, updates, and retrieval to prevent low-confidence accumulation or misuse. Conflicts, revisions, and uncertainty are handled explicitly, allowing the system to adapt naturally as information evolves.
-
-## 🔧 Current Technical Exploration
-
-I am actively exploring architectures that combine:
-
-- Go for performance, concurrency, and simplicity  
-- HTMX for minimal, server-driven interfaces  
-- Modern NLP and ML techniques for low-latency, cost-efficient systems  
-
-The focus is on building lean ML-enabled products that avoid unnecessary infrastructure complexity or vendor lock-in.
-
 
 ## 🧾 Employment Timeline
 
