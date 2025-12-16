@@ -88,7 +88,7 @@ Introduce a slot-based representation for capturing relevant information from na
 
 | Years       | Company             | Role                     | Focus |
 |------------|---------------------|--------------------------|-------|
-| 2023 – 2024 | Bright               | Delivery Lead            | Product ownership, team leadership, architecture, global delivery |
+| 2023 – 2024 | BrightHR               | Delivery Lead            | Product ownership, team leadership, architecture, global delivery |
 | 2023        | Schneider Electric   | Contract Engineer        | .NET libraries, embedded integrations, TDD |
 | 2020 – 2023 | OpenMoney            | Tech Lead                | Greenfield systems, CI/CD, mentoring, architecture |
 | 2018 – 2020 | Raytheon             | Senior Software Engineer | Distributed systems, refactoring, defence projects |
