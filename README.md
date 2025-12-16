@@ -4,8 +4,6 @@ Senior software engineer and engineering leader with 13+ years of experience bui
 
 I finished my role at Bright in December 2024 to focus on strengthening my foundations in mathematics and data science. I am currently studying for a BSc in Mathematics with the Open University and completing the Cambridge Data Science Career Accelerator programme.
 
----
-
 ## 🛠️ Core Engineering Experience
 
 My primary background is in senior and lead engineering roles, with long-term ownership of production systems:
@@ -17,8 +15,6 @@ My primary background is in senior and lead engineering roles, with long-term ow
 - Hands-on experience with C#, .NET, SQL, JavaScript and TypeScript, React, and service-oriented architectures  
 
 I have consistently worked on systems under real operational pressure, balancing delivery speed with correctness, performance, and maintainability.
-
----
 
 ## 👥 Leadership and Management
 
@@ -32,8 +28,6 @@ Alongside hands-on technical work, I have held senior leadership and management 
 - Leading incident response, post-mortems, and continuous improvement initiatives  
 
 My leadership approach is pragmatic and delivery-focused, with an emphasis on clarity, sustainable pace, and building teams that can ship high-quality software consistently.
-
----
 
 ## 🧠 Data Science and Machine Learning
 
@@ -50,7 +44,6 @@ Recent applied work includes:
 
 My interest lies in how these techniques translate into reliable, maintainable systems rather than isolated notebook results.
 
----
 
 ## 🔧 Current Technical Exploration
 
@@ -62,7 +55,6 @@ I am actively exploring architectures that combine:
 
 The focus is on building lean ML-enabled products that avoid unnecessary infrastructure complexity or vendor lock-in.
 
----
 
 ## 🧾 Employment Timeline
 
