@@ -8,11 +8,13 @@ I finished my role at Bright in December 2024 to focus on strengthening my found
 
 My primary background is in senior and lead engineering roles, with long-term ownership of production systems:
 
-- Design and evolution of distributed systems and microservice architectures  
-- Cloud-native development on Azure and AWS, including infrastructure automation and CI/CD pipelines  
-- Strong emphasis on reliability through TDD and BDD, including unit, integration, contract, and end-to-end testing  
-- Refactoring legacy systems, managing technical debt, and improving observability through logging, metrics, and alerting  
-- Hands-on experience with C#, .NET, SQL, JavaScript and TypeScript, React, and service-oriented architectures  
+- Design and evolution of distributed systems and microservice architectures
+- Cloud-native development on Azure and AWS, including infrastructure automation and CI/CD pipelines
+- Strong emphasis on reliability through TDD and BDD, including unit, integration, contract, and end-to-end testing
+- Refactoring legacy systems, managing technical debt, and improving observability through logging, metrics, and alerting
+- Hands-on experience with C#, .NET, Python, SQL, JavaScript and TypeScript, React, and service-oriented architectures
+- Production API design and integration patterns, including strict separation between domain, application logic, and infrastructure concerns
+- Building data-heavy and ML-adjacent services in Python, including feature engineering, model experimentation, and service integration
 
 I have consistently worked on systems under real operational pressure, balancing delivery speed with correctness, performance, and maintainability.
 
