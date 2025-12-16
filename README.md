@@ -85,15 +85,16 @@ Introduce a slot-based representation for capturing relevant information from na
 * **Semantic routing and intent interpretation**: Replace brittle keyword triggers with embedding-based routing and lightweight intent classification to determine how user input should be handled, whether updating stored information, querying existing knowledge, or retrieving contextual signals.
 * **Natural language querying of structured knowledge**: Expose stored information through the same natural language interface used to create it. Wherever possible, queries are resolved deterministically against structured data, with retrieval-based techniques used selectively for nuanced or contextual questions.
 * **Application-level safeguards and adaptability**: Enforce constraints on storage, updates, and retrieval to prevent low-confidence accumulation or misuse. Conflicts, revisions, and uncertainty are handled explicitly, allowing the system to adapt naturally as information evolves.
-
+  
 ## 🧾 Employment Timeline
 
-| Years       | Company             | Role                     | Focus |
-|------------|---------------------|--------------------------|-------|
-| 2023 – 2024 | BrightHR               | Delivery Lead            | Product ownership, team leadership, architecture, global delivery |
-| 2023        | Schneider Electric   | Contract Engineer        | .NET libraries, embedded integrations, TDD |
-| 2020 – 2023 | OpenMoney            | Tech Lead                | Greenfield systems, CI/CD, mentoring, architecture |
-| 2018 – 2020 | Raytheon             | Senior Software Engineer | Distributed systems, refactoring, defence projects |
-| 2016 – 2018 | Zen Internet         | Systems Developer        | APIs, web platforms, cloud prototyping |
-| 2013 – 2016 | Swinton Insurance    | Junior C# Developer     | Enterprise .NET, BDD and TDD |
-| 2012 – 2013 | Parker Sandfords     | Junior Developer         | Web development and CMS |
+| Years        | Company / Programme                         | Role / Focus                    | Details |
+|-------------|---------------------------------------------|---------------------------------|---------|
+| 2025 –      | Open University / University of Cambridge   | BSc Mathematics, Data Science   | Mathematics degree and Cambridge Data Science Career Accelerator |
+| 2023 – 2024 | Bright                                      | Delivery Lead                   | Product ownership, team leadership, architecture, global delivery |
+| 2023        | Schneider Electric                          | Contract Engineer               | .NET libraries, embedded integrations, TDD |
+| 2020 – 2023 | OpenMoney                                   | Tech Lead                       | Greenfield systems, CI/CD, mentoring, architecture |
+| 2018 – 2020 | Raytheon                                    | Senior Software Engineer        | Distributed systems, refactoring, defence projects |
+| 2016 – 2018 | Zen Internet                                | Systems Developer               | APIs, web platforms, cloud prototyping |
+| 2013 – 2016 | Swinton Insurance                           | Junior C# Developer             | Enterprise .NET, BDD and TDD |
+| 2012 – 2013 | Parker Sandfords                            | Junior Developer                | Web development and CMS |
