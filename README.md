@@ -2,7 +2,7 @@
 
 Senior software engineer and engineering leader with 13+ years of experience building, operating, and scaling production systems across fintech, energy, defence, and SaaS. Extensive experience owning complex systems end to end, leading engineering teams, and delivering business-critical software in regulated and high-availability environments.
 
-I finished my role at Bright in December 2024 to focus on strengthening my foundations in mathematics and data science. I am currently studying for a BSc in Mathematics with the Open University and completing the Cambridge Data Science Career Accelerator programme.
+I finished my role at Bright in December 2024 to focus on strengthening my foundations in mathematics and data science. I am currently studying for a BSc in Mathematics with the Open University and completing the [Cambridge Data Science Career Accelerator programme](https://onlinecareeraccelerators.pace.cam.ac.uk/cambridge-data-science-career-accelerator).
 
 ## 🛠️ Core Engineering Experience
 
