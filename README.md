@@ -88,13 +88,14 @@ Introduce a slot-based representation for capturing relevant information from na
   
 ## 🧾 Employment Timeline
 
-| Years        | Company / Programme                         | Role / Focus                    | Details |
-|-------------|---------------------------------------------|---------------------------------|---------|
-| 2025 –      | Open University / University of Cambridge   | BSc Mathematics, Data Science   | Mathematics degree and Cambridge Data Science Career Accelerator |
-| 2023 – 2024 | Bright                                      | Delivery Lead                   | Product ownership, team leadership, architecture, global delivery |
-| 2023        | Schneider Electric                          | Contract Engineer               | .NET libraries, embedded integrations, TDD |
-| 2020 – 2023 | OpenMoney                                   | Tech Lead                       | Greenfield systems, CI/CD, mentoring, architecture |
-| 2018 – 2020 | Raytheon                                    | Senior Software Engineer        | Distributed systems, refactoring, defence projects |
-| 2016 – 2018 | Zen Internet                                | Systems Developer               | APIs, web platforms, cloud prototyping |
-| 2013 – 2016 | Swinton Insurance                           | Junior C# Developer             | Enterprise .NET, BDD and TDD |
-| 2012 – 2013 | Parker Sandfords                            | Junior Developer                | Web development and CMS |
+| Years        | Company / Programme                         | Role / Focus                          | Details                                                                 |
+|--------------|---------------------------------------------|---------------------------------------|-------------------------------------------------------------------------|
+| 2026 –       | Keenu.io                                    | Machine Learning Engineer             | Data collection platform, ML pipelines, FastAPI, MLflow, AWS ECS, NLP scoring with BERT |
+| 2024 – 2026  | Open University / University of Cambridge   | BSc Mathematics, Data Science         | Mathematics degree and Cambridge Data Science Career Accelerator        |
+| 2023 – 2024  | Bright                                      | Delivery Lead                         | Product ownership, team leadership, architecture, global delivery       |
+| 2023         | Schneider Electric                          | Contract Engineer                     | .NET libraries, embedded integrations, TDD                              |
+| 2020 – 2023  | OpenMoney                                   | Tech Lead                             | Greenfield systems, CI/CD, mentoring, architecture                      |
+| 2018 – 2020  | Raytheon                                    | Senior Software Engineer              | Distributed systems, refactoring, defence projects                      |
+| 2016 – 2018  | Zen Internet                                | Systems Developer                     | APIs, web platforms, cloud prototyping                                  |
+| 2013 – 2016  | Swinton Insurance                           | Junior C# Developer                   | Enterprise .NET, BDD and TDD                                            |
+| 2012 – 2013  | Parker Sandfords                            | Junior Developer                      | Web development and CMS                                                 |
