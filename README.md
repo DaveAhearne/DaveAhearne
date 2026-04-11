@@ -53,7 +53,7 @@ The stack: FastAPI, HTMX, SQLite, AWS (EC2, ECR, Cognito, CloudWatch), Docker, G
 | Years | Company | Role |
 |---|---|---|
 | 2026 – | Keenu.io | ML Engineer (Turing Innovation Catalyst) |
-| 2024 – | Open University / Cambridge PACE | BSc Mathematics + Data Science Accelerator |
+| 2025 – | Open University / Cambridge PACE | BSc Mathematics + Data Science Accelerator |
 | 2023 – 2024 | BrightHR | Delivery Lead |
 | 2023 | Schneider Electric | Contract Engineer |
 | 2020 – 2023 | OpenMoney | Tech Lead |
